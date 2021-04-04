@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="LiveIslands MS Offline"  group-title="Montserrat Local",LiveIslands MS Offline
-https://www.youtube.com/watch?v=xz4OVBJTRpA
+https://youtu.be/Qicpi_hbnig
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://github.com/IvorDon/IPTVMS/blob/fa6caf20f199284a5e985b2472c3f7717658aa41/GIU%20Logo.jpg" tvg-name="GIU MS Offline"  group-title="Montserrat Local",GIU MS Offline
 https://www.youtube.com/watch?v=28T9UjBx2W4
@@ -9,6 +9,6 @@ https://www.youtube.com/watch?v=28T9UjBx2W4
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="3ABN"  group-title="Montserrat Local",3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="skynews"  group-title="Montserrat Local",skynews
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="skynews"  group-title="Montserrat Local",skynews
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616915638/ei/VthfYNXlHc2C2LYP-_mnqAc/ip/104.255.176.151/id/9Auq9mYxFEE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/ms/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPtTzuVGd1Y_3ogexZW77JMvFAH0iK6wRex4r6zbQtG2AiEAmzAmkyXF7efFp_h8tqe1_RFpfD3JuT5LEa8ONqhJujY%3D/file/index.m3u8
 
